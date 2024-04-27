@@ -5,7 +5,8 @@
 }
 body {
     background: #0f0f0f;
-    margin: unset
+    margin: unset;
+    overflow-x: hidden;
 }
 p, h1, h2, h3, h4, button {
     margin: unset;
