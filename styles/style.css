@@ -71,6 +71,7 @@ main {
 .sand {
     display: flex;
     flex-shrink: 0;
+    transition: 0.5s;
     img {
         width: 1920px;
         flex-shrink: 0;
